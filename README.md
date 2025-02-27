@@ -1,9 +1,8 @@
-## Check out my login page!!
-[my-3780-app.vercel.app]
-{https://my-3780-app.vercel.app}
+## Check out my login page!!  
+[my-3780-app.vercel.app](https://my-3780-app.vercel.app)
 
-## Check out my new movie page
-{https://my-3780-app.vercel.app/movies}
+## Check out my new movie page  
+[my-3780-app.vercel.app/movies](https://my-3780-app.vercel.app/movies)
 
 # sv
 
