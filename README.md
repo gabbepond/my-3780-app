@@ -1,3 +1,9 @@
+## Check out my login page!!  
+[my-3780-app.vercel.app](https://my-3780-app.vercel.app)
+
+## Check out my new movie page  
+[my-3780-app.vercel.app/movies](https://my-3780-app.vercel.app/movies)
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
