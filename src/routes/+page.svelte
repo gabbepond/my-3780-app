@@ -17,7 +17,7 @@
 		<div>
 			
 			<h1>Welcome {data.userProfile?.given_name}!</h1>
-			<a href="/api/auth/logout" class="btn bg-purple-600 text-white">Logout</a>
+			<a href="/api/auth/logout" class="btn bg-red-600 text-white">Logout</a>
 			
 
 		</div>
